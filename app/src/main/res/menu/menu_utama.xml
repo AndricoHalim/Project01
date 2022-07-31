@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_1"
+        android:title="@string/teks_menu1" />
+    <item
+        android:id="@+id/menu_2"
+        android:title="@string/teks_menu2" />
+    <item
+        android:id="@+id/menu_3"
+        android:title="@string/teks_menu3"/>
+</menu>
